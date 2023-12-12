@@ -1,0 +1,55 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  
+  h1 {
+    font-family: 'Copperplate Gothic Bold', cursive;
+    background-color: #ffffff;
+    text-align: center;
+    font-size: 50px;
+    border-style: dotted;
+    border-width: thick;
+    border-color: #000000;
+    border-radius: 12px;
+    padding: 5px;
+  }
+
+  #navegacion {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border-style: dotted;
+    overflow: hidden;
+    background-color: #ffffff;
+  }
+
+  .nav-link {
+    float: left;
+  }
+
+  .nav-link a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .nav-link a:hover {
+    background-color: #b4afaf;
+  }
+  
+  .text {
+    text-align: center;
+  }
+
+  #PP {
+    width: 150px;
+    height: 150px;
+  }
+
+
+  
+
